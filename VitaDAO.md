@@ -4,11 +4,13 @@
 - partners/backers: [[Vitalik Buterin]], [[Ocean Protocol]], [[University Of Copenhagen]], and service providers c3-03-07
 - advisors: [[David M. Wilson III]]
 
+
 #### token
 - native token [[VITA]]
 -> for governance (min. 1 VITA), holders obliged to adhere to code of conduct
 -> can be gifted to reputable stakeholders to incentivize participation (via proposal, work, or purchase: ie a service provider or contract research organization providing preclinical development services, or running qPCR experiments)
 -> TGE via [[Gnosis Auction]]
+
 
 #### mission/purpose/USP
 - R&D in the longevity space, coordinating actions for- and non-profits
@@ -28,42 +30,66 @@
 - view of improvement proposals also as an entailing process to bundle decisions
 -> ie to task internal/external partners (sevice providers), grant them autonomy
  
+ 
 #### organization
 
-[[DAO]] structure, no single entity can dictate or veto a decision against the will of the community
+- [[DAO]] structure, no single entity can dictate or veto a decision against the will of the community
 
-- stakeholders (st): (st1) patients, (st2) researchers
+- stakeholders (st):
+
+(st1) patients
+
+(st2) researchers
+
 
 - 3 groups of contributors (c):
 
 (c1) *members*/token holders
+
 -> govern the data repositories and IP asset PF
+
 
 (c2) *working groups*:
 
 (c2-wg-01) Legal
+
 (c2-wg-02) Technical
+
 (c2-wg-03) Governance
+
 (c2-wg-04) Tokenomics
+
 (c2-wg-05) Awareness
+
 (c2-wg-06) Ops
+
 (c2-wg-07) Longevity
 
 -> consisting of:
 (c2-wg-xx-a) members with high availability
 (c2-wg-xx-b) a steward in a leading role/responsible for final decisions
 
+
 (c3) *service providers*:
+
 (c3-01) [[Arctoris Ltd]]
+
 (c3-02) [[Curve Labs]]
+
 (c3-03) [[Decentralized Matter]]
+
 (c3-04) [[Keyko AG]]
+
 (c3-05) [[Linum Labs AG]]
+
 (c3-06) [[Molecule GmbH]]
+
 (c3-07) [[Scheibye-Knudsen Lab]]
+
 
 #### partners/backing
 - [[Vitalik Buterin]], [[Ocean Protocol]], [[University Of Copenhagen]], and service providers c3-03-07
+
 
 #### road map
 - [ ] Smart Contract Audit
@@ -74,10 +100,12 @@
 - [ ] Transfer of NFT / IP
 - [ ] Transfer of Funding to 1st Research Project
 
+
 ###### source:
 https://www.youtube.com/channel/UCiZKdSeJ9VPFR5BtKnbN4fQ
 https://vitadao.medium.com/
 https://anchor.fm/vitadao/
+
 
 ###### links:
 [[blockchain]], [[Ethereum]], [[Gnosis]], [[SENS]], [[Eroom's Law]], [[LEAF]], [[Danish National Health Service]], [[Open Source Pharma Consortium]], 
