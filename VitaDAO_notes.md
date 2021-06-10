@@ -103,6 +103,9 @@
 - [ ] Transfer of NFT / IP
 - [ ] Transfer of Funding to 1st Research Project
 
+#### white paper
+
+https://github.com/VitaDAO/whitepaper
 
 ###### source:
 https://www.youtube.com/channel/UCiZKdSeJ9VPFR5BtKnbN4fQ
