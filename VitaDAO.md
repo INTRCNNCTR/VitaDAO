@@ -37,7 +37,7 @@
 (st2) researchers
 
 - 3 groups of contributors (c):
-- 
+
 (c1) *members*/token holders
 -> govern the data repositories and IP asset PF
 
