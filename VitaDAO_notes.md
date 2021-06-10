@@ -108,8 +108,8 @@
 https://github.com/VitaDAO/whitepaper
 
 ###### source:
-https://www.youtube.com/channel/UCiZKdSeJ9VPFR5BtKnbN4fQ
-https://vitadao.medium.com/
+
+https://www.vitadao.com/
 https://anchor.fm/vitadao/
 
 
