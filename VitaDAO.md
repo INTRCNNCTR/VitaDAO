@@ -25,17 +25,36 @@
 - to monetize owned data and IP rights
 - there is "a race to centralize research progress in the hands of the few" in progress
 - like a self-governing ETF composed of hundreds of early-stage longevity projects
-
-#### organization
-- stakeholders: (st1) patients, (st2) researchers
-- [[DAO]] structure, no single entity can dictate or veto a decision against the will of the community
 - view of improvement proposals also as an entailing process to bundle decisions
 -> ie to task internal/external partners (sevice providers), grant them autonomy
-- 3 groups of contributors: (c1) members/token holders, (c2) contributing group workers, (c3) service providers
--> token holders govern the data repositories and IP asset PF
--> a *working group* should consist of (c2-a) members with high availability and (c2-b) a steward in a leading role/responsible for final decisions
-	- initial groups: (c2-wg-01) Legal, (c2-wg-02) Technical, (c2-wg-03) Governance, (c2-wg-04) Tokenomics, (c2-wg-05) Awareness, (c2-wg-06) Ops, (c2-wg-07) Longevity
--> initial service providers:
+ 
+#### organization
+
+[[DAO]] structure, no single entity can dictate or veto a decision against the will of the community
+
+- stakeholders (st):
+(st1) patients
+(st2) researchers
+
+- 3 groups of contributors (c):
+- 
+(c1) *members*/token holders
+-> govern the data repositories and IP asset PF
+
+(c2) *working groups*:
+(c2-wg-01) Legal
+(c2-wg-02) Technical
+(c2-wg-03) Governance
+(c2-wg-04) Tokenomics
+(c2-wg-05) Awareness
+(c2-wg-06) Ops
+(c2-wg-07) Longevity
+
+-> consisting of:
+(c2-wg-xx-a) members with high availability
+(c2-wg-xx-b) a steward in a leading role/responsible for final decisions
+
+(c3) *service providers*:
 (c3-01) [[Arctoris Ltd]]
 (c3-02) [[Curve Labs]]
 (c3-03) [[Decentralized Matter]]
