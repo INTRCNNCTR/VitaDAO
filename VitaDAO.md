@@ -40,6 +40,7 @@
 -> govern the data repositories and IP asset PF
 
 (c2) *working groups*:
+
 (c2-wg-01) Legal
 (c2-wg-02) Technical
 (c2-wg-03) Governance
