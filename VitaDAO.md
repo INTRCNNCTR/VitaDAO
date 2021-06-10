@@ -32,9 +32,7 @@
 
 [[DAO]] structure, no single entity can dictate or veto a decision against the will of the community
 
-- stakeholders (st):
-(st1) patients
-(st2) researchers
+- stakeholders (st): (st1) patients, (st2) researchers
 
 - 3 groups of contributors (c):
 
