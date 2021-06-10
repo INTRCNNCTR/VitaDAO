@@ -1,11 +1,11 @@
-#### project
+## project
 - launchdate: April 2021
 - initiators: [[Tyler Golato]], [[Paul Kohlhaas]], [[Morten Scheibye-Knudsen]]
 - partners/backers: [[Vitalik Buterin]], [[Ocean Protocol]], [[University Of Copenhagen]], and service providers c3-03-07
 - advisors: [[David M. Wilson III]], [[Aubrey De Grey]]
 
 
-#### token
+## token
 - native token [[VITA]]
 -> for governance (min. 1 VITA), holders obliged to adhere to code of conduct
 -> can be gifted to reputable stakeholders to incentivize participation (via proposal, work, or purchase: ie a service provider or contract research organization providing preclinical development services, or running qPCR experiments)
