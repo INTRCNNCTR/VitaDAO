@@ -49,7 +49,7 @@
 -> govern the data repositories and IP asset PF
 
 
-(c2) *working groups*:
+(c2) *working groups* (wg):
 
 (c2-wg-01) Legal
 
@@ -65,8 +65,11 @@
 
 (c2-wg-07) Longevity
 
+
 -> consisting of:
+
 (c2-wg-xx-a) members with high availability
+
 (c2-wg-xx-b) a steward in a leading role/responsible for final decisions
 
 
