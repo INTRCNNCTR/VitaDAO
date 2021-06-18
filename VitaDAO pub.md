@@ -153,67 +153,7 @@ tokenomics | - | - | - | X | - | - | -
 
 #### processes
 
-**IP NFT Creation:**
-
-1 request for token creation/delivery of data
-
-2 |-> printing of signature onto IP licensing agreement upon creation
-
-3 |-> signature of both parties (buyer, seller) are required when changing its ownership
-
-
-**Engaging w IP:**
-
-1 request for review of data asset
-
-2 |-> engage w 'council' ==elected already? specific members? name?==
-
-3 |-> submit KYC
-3 |-> sign non-compete and confidentiality agreement
-
-
-**Staking and Signaling:**
-! not live w V1, to be implemented w V2
-
-1 project joins DAO/gets funded
-
-2 |-> member stakes VITA ==in specific pool dedicated for project?==
-progress of project measured by providing roadmap w milestones to reach
-
-3 |-> token unlock when reaching objective (projects predetermine measurable milestones)
-3 |-> paying staking rewards to stakers regularly ==specifics payout periods?==
-
-
-
-**Project Lifecycle:**
-
-1 proposal to purchase IP NFT
-
-2 |-> members vote
-2 |-> define project parameters
-2 |-> define payment schedule
-
-3 |-> 1st payment to project
-3 |-> project commences
-
-4 |-> project delivers data assets to DAO ==how? tools?==
-
-5 |-> members and advisors decide usage
-
-6 |-> file for further IP and patents
-6 |-> file for clinical trials and further studies
-6 |-> monetize on Ocean Marketplace
-
-additional funding of stakeholder or its other projects possible at any given time
-
-
-**IP Commercialization**
-
-1 accepted proposal
-
-2 |-> change NFT custodianship from DAO into sub-DAO by minting a ERC-20 token
-3 |-> trade new token to fund and decentralize project further
-
+tba
 
 ---
 ## GOVERNANCE
